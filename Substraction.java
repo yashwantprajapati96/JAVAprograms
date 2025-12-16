@@ -1,9 +1,9 @@
 
 
-package com.mycompany.additon;
+package com.mycompany.substraction;
 
 
-public class Additon {
+public class substraction {
     
 
     public static void main(String[] args) {
